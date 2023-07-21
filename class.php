@@ -1,4 +1,4 @@
 <?php
 echo "Hello! welcome to School of Information";
-echo "Subject code: itd62-271
+echo "Subject code: itd62-271"
 ?>
